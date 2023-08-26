@@ -1,9 +1,8 @@
 # BMI Calculator
 
 <div style="display: flex; justify-content: space-around">
-    <img src="screenshots/dark.jpg" style="width: 30%; height: 720px" />
-    <img src="screenshots/light.jpg" style="width: 30%; height: 720px" />
-	<img src="screenshots/bmi_calculator.gif" style="width: 30%; height: 720px" />
+    <img src="screenshots/dark.jpg" style="width: 40%; height: 720px" />
+    <img src="screenshots/light.jpg" style="width: 40%; height: 720px" />
 </div>
 
 
