@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="height">Altura em metros</string>
+    <string name="weight">Peso em quilogramas</string>
+    <string name="calculate">Calcular</string>
+    <string name="bmi_calculator_image">Imagem da Calculadora de IMC</string>
+    <string name="close">Fechar</string>
+    <string name="icon_info_title">IMC Informações</string>
+    <string name="bmi_info">O Índice de Massa Corporal (IMC) é um valor numérico calculado a partir do peso e da altura de uma pessoa. É comumente usado como um indicador para saber se o peso de uma pessoa está dentro de uma faixa saudável em relação à sua altura. O IMC fornece uma estimativa aproximada da gordura corporal e pode ajudar a identificar potenciais riscos à saúde associados ao baixo peso, sobrepeso ou obesidade. O valor do IMC é calculado dividindo o peso de uma pessoa em quilogramas pelo quadrado da sua altura em metros. O valor resultante é então categorizado em diferentes faixas, como baixo peso, peso normal, sobrepeso e obesidade, cada uma com implicações associadas à saúde. No entanto, é importante observar que o IMC tem limitações e não mede diretamente a composição corporal ou fatores como massa muscular, densidade óssea e distribuição de gordura. Portanto, embora o IMC possa ser uma ferramenta útil de avaliação inicial, é recomendável considerar fatores adicionais e consultar um profissional de saúde para uma avaliação abrangente da saúde de um indivíduo.</string>
+    <string name="bmi_extra_info">As faixas do Índice de Massa Corporal (IMC) e suas categorias correspondentes são geralmente as seguintes:</string>
+    <string name="bmi_ranges"><b>Abaixo do Peso: IMC menor que 18,5</b>\n<b>Peso Normal: IMC entre 18,5 e 24,9</b>\n<b>Sobrepeso: IMC entre 25 e 29,9</b>\n<b>Obesidade Grau 1: IMC entre 30 e 34,9</b>\n<b>Obesidade Grau 2: IMC entre 35 e 39,9</b>\n<b>Obesidade Grau 3 (Obesidade Mórbida): ICM 40 ou maior</b></string>
+    <string name="invalid_height">altura inválida</string>
+    <string name="invalid_weight">peso inválido</string>
+    <string name="result">Resultado</string>
+
+    <string name="underweight">Abaixo do Peso</string>
+    <string name="normal_weight">Peso Normal</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="obese_class_1">Obesidade Grau 1</string>
+    <string name="obese_class_2">Obesidade Grau 2</string>
+    <string name="obese_class_3">Obesidade Grau 3</string>
+    <string name="what_is_bmi">O que é IMC (Índice de Massa Corporal)?</string>
+</resources>

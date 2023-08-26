@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BMICalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">#37d9ef</item>
+        <item name="colorOnPrimary">#00363d</item>
+        <item name="colorPrimaryContainer">#004f58</item>
+        <item name="colorOnPrimaryContainer">#9af0ff</item>
+        <item name="colorSecondary">#b1cbd0</item>
+        <item name="colorOnSecondary">#1c3438</item>
+        <item name="colorSecondaryContainer">#334b4f</item>
+        <item name="colorOnSecondaryContainer">#cde7ec</item>
+    </style>
+</resources>

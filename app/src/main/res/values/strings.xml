@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="height">Height in meters</string>
+    <string name="weight">Weight in kilograms</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi_calculator_image">BMI Calculator Image</string>
+    <string name="close">Close</string>
+    <string name="icon_info_title">BMI Info</string>
+
+    <!--    bmi info-->
+    <string name="bmi_info">
+        The Body Mass Index (BMI) is a numerical value calculated from a person\'s weight and height.
+        It\'s commonly used as an indicator of whether a person\'s weight is within a healthy range
+        relative to their height. BMI provides a rough estimate of body fat and can help identify
+        potential health risks associated with being underweight, overweight, or obese. The BMI value
+        is calculated by dividing a person\'s weight in kilograms by the square of their height in meters.
+        The resulting value is then categorized into different ranges, such as underweight, normal weight,
+        overweight, and obese, each with associated health implications. However, it\'s important to
+        note that BMI has limitations and doesn\'t directly measure body composition or factors like
+        muscle mass, bone density, and distribution of fat. Therefore, while BMI can be a useful
+        initial assessment tool, it\'s recommended to consider additional factors and consult a
+        healthcare professional for a comprehensive evaluation of an individual\'s health.
+    </string>
+    <string name="bmi_extra_info">
+        The Body Mass Index (BMI) ranges and their corresponding categories are generally as follows:
+    </string>
+    <string name="bmi_ranges"><b>Underweight: BMI less than 18.5</b>\n<b>Normal Weight: BMI 18.5 to 24.9</b>\n<b>Overweight: BMI 25 to 29.9</b>\n<b>Obese Class I: BMI 30 to 34.9</b>\n<b>Obese Class II: BMI 35 to 39.9</b>\n<b>Obese Class III (Morbid Obesity): BMI 40 or higher</b>
+    </string>
+    <string name="invalid_height">invalid height</string>
+    <string name="invalid_weight">invalid weight</string>
+    <string name="result">Result</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal_weight">Normal Weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_1">Obese Class I</string>
+    <string name="obese_class_2">Obese Class II</string>
+    <string name="obese_class_3">Obese Class III</string>
+    <string name="what_is_bmi">What is BMI (Body Mass Index)?</string>
+
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BMICalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#006875</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorPrimaryContainer">#9af0ff</item>
+        <item name="colorOnPrimaryContainer">#001f24</item>
+        <item name="colorSecondary">#4a6267</item>
+        <item name="colorOnSecondary">#ffffff</item>
+        <item name="colorSecondaryContainer">#cde7ec</item>
+        <item name="colorOnSecondaryContainer">#051f23</item>
+    </style>
+
+    <style name="Theme.BMICalculator" parent="Base.Theme.BMICalculator" />
+</resources>
